@@ -1,2 +1,3 @@
-# odin-recipes
-A project made while working through The Odin Project's curriculum. Its a website containing multiple recipes.
+This is a website that is going to have a website which contains links to other webpages each containing different recipes.
+
+Hopefully I will remember to come back to the README file and add what I learned throughout the creation of this project...
