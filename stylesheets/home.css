@@ -1,0 +1,32 @@
+#homepage-heading {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.introduction {
+    padding-bottom: 25px;
+}
+
+.recipes {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+.recipes li {
+    background-color: white;
+    margin: 20px 20%;
+    border: 3px solid rgb(182, 169, 134);
+}
+
+#coquito-link {
+    color: coral;
+}
+
+#tiramisu-balls-link {
+    color: blueviolet;
+}
+
+#christmas-brunch-casserole-link {
+    color: cornflowerblue;
+}
