@@ -1,0 +1,36 @@
+h1 {
+    color: coral;
+    text-align: center;
+}
+
+img {
+    border: 5px solid coral;
+    display: block;
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#descriptions-heading {
+    color: rgba(255, 127, 80, 0.85);
+}
+
+.description {
+    border-color: rgba(255, 127, 80, 0.75);
+}
+
+#ingredients-heading {
+    color: rgba(255, 127, 80, 0.7);
+}
+
+.ingredients {
+    border-color: rgba(255, 127, 80, 0.65);
+}
+
+#steps-heading {
+    color: rgba(255, 127, 80, 0.6);
+}
+
+.steps {
+    border-color: rgba(255, 127, 80, 0.5);
+}
