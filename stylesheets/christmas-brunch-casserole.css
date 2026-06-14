@@ -1,0 +1,36 @@
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+}
+
+img {
+    border: 5px solid cornflowerblue;
+    display: block;
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#descriptions-heading {
+    color: rgba(100, 149, 237, 0.85)
+}
+
+.description {
+    border-color: rgba(100, 149, 237, 0.7);
+}
+
+#ingredients-heading {
+    color: rgba(100, 149, 237, 0.65);
+}
+
+.ingredients {
+    border-color: rgba(100, 149, 237, 0.6);
+}
+
+#steps-heading {
+    color: rgba(100, 149, 237, 0.55);
+}
+
+.steps {
+    border-color: rgba(100, 149, 237, 0.5);
+}
