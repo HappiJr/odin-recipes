@@ -1,0 +1,36 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+img {
+    border: 5px solid blueviolet;
+    display: block;
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#descriptions-heading {
+    color: rgba(138, 43, 226, 0.85);
+}
+
+.description {
+    border-color: rgba(138, 43, 226, 0.7);
+}
+
+#ingredients-heading {
+    color: rgba(138, 43, 226, 0.6);
+}
+
+.ingredients {
+    border-color: rgba(138, 43, 226, 0.55);
+}
+
+#steps-heading {
+    color: rgba(138, 43, 226, 0.5);
+}
+
+.steps {
+    border-color: rgba(138, 43, 226, 0.45);
+}
